@@ -1,5 +1,5 @@
 {
-  "name": "@types/custom_typings",
+  "name": "@types/import_assets",
   "version": "0.1.0",
   "main": "index.d.ts"
 }
